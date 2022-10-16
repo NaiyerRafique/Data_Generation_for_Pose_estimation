@@ -33,3 +33,6 @@ The following parameters were used in the rendering process:
 •	Errors/anomalies in the objects
 
 •	Geometric object features
+
+# Citation
+Denninger, M., Sundermeyer, M., Winkelbauer, D., Olefir, D., Hodan, T., Zidan, Y., Elbadrawy, M., Knauer, M., Katam, H., Lodhi, A., "BlenderProc: Reducing the Reality Gap with Photorealistic Rendering", RSS 2020.
